@@ -4,6 +4,8 @@ Individual Project
 ## Description
 This Monte Carlo Simulation calculates the value of PI. The program was created as a TkInter GUI. When the user clicks the 'Run Simulation' button, a bunch of darts will be "thrown" at the target on the left side. After the darts have been drawn, the program will calculate an approximate value for PI.
 
+<img width="617" alt="image" src="https://github.com/TamsynE/Monte-Carlo-Simulation/assets/93171379/7661d661-4cdb-4fbf-87a2-746f2d2d95ce">
+
 ## Details
 The GUI App is built on TkInter and implemented using a simple Python class. 
 
